@@ -1,7 +1,11 @@
 import 'jest';
 
 describe('Jest Test', () => {
-    test('Verify tests work', () => {
-        expect(true).toBeTruthy();
-    });
+  test('Verify tests work', () => {
+    let language: string;
+
+    language = 'English';
+
+    expect(typeof language).toBe('string');
+  });
 });
