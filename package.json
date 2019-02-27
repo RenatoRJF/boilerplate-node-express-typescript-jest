@@ -1,0 +1,27 @@
+{
+  "name": "boilerplate-node-express-typescript-jest",
+  "version": "1.0.0",
+  "description": "A simple boilerplate to start new API projects with NodeJS, Express, Typescript and Jest.",
+  "main": "./src/server.js",
+  "scripts": {
+    "test": "test, test:watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenatoRJF/boilerplate-node-express-typescript-jest.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "api",
+    "express",
+    "jest",
+    "boilerplate"
+  ],
+  "author": "Renato Ferreira <renatoferreira.dev@gmail.com> (https://github.io/RenatoRJF)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RenatoRJF/boilerplate-node-express-typescript-jest/issues"
+  },
+  "homepage": "https://github.com/RenatoRJF/boilerplate-node-express-typescript-jest#readme"
+}
