@@ -2,7 +2,7 @@
   "name": "boilerplate-node-express-typescript-jest",
   "version": "1.0.0",
   "description": "A simple boilerplate to start new API projects with NodeJS, Express, Typescript and Jest.",
-  "main": "./src/server.js",
+  "main": "build/server.js",
   "scripts": {
     "test": "test, test:watch"
   },
