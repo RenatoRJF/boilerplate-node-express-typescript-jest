@@ -23,5 +23,19 @@
   "bugs": {
     "url": "https://github.com/RenatoRJF/boilerplate-node-express-typescript-jest/issues"
   },
-  "homepage": "https://github.com/RenatoRJF/boilerplate-node-express-typescript-jest#readme"
+  "homepage": "https://github.com/RenatoRJF/boilerplate-node-express-typescript-jest#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.16"
+  },
+  "devDependencies": {
+    "@types/express": "^4.16.1",
+    "@types/jest": "^24.0.9",
+    "jest": "^24.1.0",
+    "nodemon": "^1.18.10",
+    "ts-jest": "^24.0.0",
+    "ts-node": "^8.0.2",
+    "typescript": "^3.3.3333"
+  }
 }
