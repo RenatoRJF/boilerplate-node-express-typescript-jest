@@ -7,7 +7,7 @@ With this setup you have following already configured:
 * `typescript`: when you start the app, a 'build' folder is created with all your js files transpiled.
 * `Jest`: all configuration related to test are done to be used and you can update it according your need.
 * `nodemon`: you need to start the server only once and it will be reload each time you save changes.
-* `.editorconfig`: you can setup a configuration to format your code each time you write.
+* `.editorconfig`: you can set up a this file to format your code each time you write it.
 
 #### Running the project
 After clone the project, go into the project directory and run to following commands:
