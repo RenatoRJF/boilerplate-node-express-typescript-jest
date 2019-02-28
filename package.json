@@ -4,7 +4,8 @@
   "description": "A simple boilerplate to start new API projects with NodeJS, Express, Typescript and Jest.",
   "main": "build/server.js",
   "scripts": {
-    "start": "tsc && node build/server.js",
+    "start": "ts-node src/server.ts",
+    "dev": "node ./node_modules/nodemon/bin/nodemon.js",
     "test": "jest",
     "test:watch": "jest --watch"
   },
