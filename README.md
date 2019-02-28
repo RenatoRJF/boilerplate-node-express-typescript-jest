@@ -1,10 +1,10 @@
 ## Boilerplace Node, Express, Typescript and Jest
-This is a simple boilerplate for staring a new API project with a simple structure.
+This is a simple boilerplate for starting a new API project with a simple structure.
 
 #### Basic configuration
-With this setup you have follwing already configured:
+With this setup you have following already configured:
 
-* `typescript`: when you build the app, a 'build' folder is created with all your js files transpiled.
+* `typescript`: when you start the app, a 'build' folder is created with all your js files transpiled.
 * `Jest`: all configuration related to test are done to be used and you can update it according your need.
 * `nodemon`: you need to start the server only once and it will be reload each time you save changes.
 
